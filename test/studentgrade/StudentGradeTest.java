@@ -2,7 +2,7 @@ package studentgrade;
 
 import junit.framework.TestCase;
 
-/* JUnit 3.8.1 */
+/* JUnit 4.13.2 */
 public class StudentGradeTest extends TestCase {
     
     public StudentGradeTest(String testName) {
